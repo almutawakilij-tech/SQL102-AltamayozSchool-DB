@@ -15,6 +15,32 @@ erDiagram
         decimal gpa
     }
 
+erDiagram
+    Excellent_Students {
+        int student_id PK
+        varchar student_name
+        date birth_date
+        char gender
+        date enrollment_date
+        varchar email
+        int level
+        varchar track
+        decimal gpa
+    }
+
+erDiagram
+    Failed_Students {
+        int student_id PK
+        varchar student_name
+        date birth_date
+        char gender
+        date enrollment_date
+        varchar email
+        int level
+        varchar track
+        decimal gpa
+    }
+
     Teachers {
         int teacher_id PK
         varchar teacher_name
