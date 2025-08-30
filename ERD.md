@@ -15,7 +15,6 @@ erDiagram
         decimal gpa
     }
 
-erDiagram
     Excellent_Students {
         int student_id PK
         varchar student_name
@@ -28,7 +27,6 @@ erDiagram
         decimal gpa
     }
 
-erDiagram
     Failed_Students {
         int student_id PK
         varchar student_name
