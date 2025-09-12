@@ -1,0 +1,21 @@
+
+*.sql linguist-detectable=true
+
+
+*.txt linguist-detectable=false
+
+
+*.md linguist-detectable=false
+
+
+*.png linguist-detectable=false
+*.jpg linguist-detectable=false
+*.jpeg linguist-detectable=false
+*.gif linguist-detectable=false
+*.svg linguist-detectable=false
+
+
+*.json linguist-detectable=false
+*.xml linguist-detectable=false
+*.yml linguist-detectable=false
+*.yaml linguist-detectable=false
